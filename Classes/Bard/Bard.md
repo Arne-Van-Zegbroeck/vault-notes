@@ -1,1 +1,1 @@
-This is a test for the bard class
+This is a test for the bard class, and here is another test
