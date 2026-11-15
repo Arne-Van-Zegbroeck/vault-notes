@@ -54,27 +54,82 @@
         "otherTypes": false
       },
       "connect": true
+    },
+    {
+      "path": "Tags",
+      "guid": "8a99c69b-163a-4017-b061-5280d6f10bd8",
+      "relay": "4caa6ae8-a30f-4833-a085-615ae410bc96",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Templates",
+      "guid": "1bddf234-f107-4748-8511-93e4e60bced9",
+      "relay": "4caa6ae8-a30f-4833-a085-615ae410bc96",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "wip",
+      "guid": "731ea4be-a226-4c0c-a2e0-73f951a0027e",
+      "relay": "4caa6ae8-a30f-4833-a085-615ae410bc96",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
     }
   ],
   "endpoints": {},
   "enableDocumentStatus": false,
   "enableNewLinkFormat": false,
+  "enableDiffLinkStatus": false,
+  "enableDiscordLogin": false,
+  "enableDeviceManagement": true,
+  "enableResourceMeter": false,
   "enableDeltaLogging": false,
+  "enableNetworkLogging": false,
+  "enableVerifyUploads": false,
+  "enableHSMRecording": false,
+  "enableHSMResourceContracts": false,
+  "enableDraftMode": false,
+  "enableFolderIdbMigration": false,
+  "enableMetadataHealthNotice": true,
+  "enableNoteStateInspector": false,
+  "enableSavingFlagPolyfill": true,
+  "enableFrontmatterDuplicateRecovery": false,
+  "enableSingleUserHistory": true,
+  "enableStreamerMode": false,
+  "debugging": false,
   "enableHTTPSync": false,
   "enableSyncMenu": true,
   "enableDocumentHistory": false,
   "enableEditorTweens": false,
   "enableSyncModal": false,
   "enableAttachmentSync": true,
-  "enableNetworkLogging": false,
   "enableCanvasSync": false,
-  "enableVerifyUploads": false,
   "enableAutomaticDiffResolution": false,
-  "enableDiscordLogin": false,
   "enableOIDCLogin": false,
   "enableGitHubLogin": false,
   "enableSelfManageHosts": false,
-  "debugging": false,
   "login": {
     "provider": "google"
   },
