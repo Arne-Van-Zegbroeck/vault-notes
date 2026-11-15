@@ -1,0 +1,1 @@
+and here we test if it really is auto committing.
