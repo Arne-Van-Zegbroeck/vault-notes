@@ -1,0 +1,83 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "Species",
+      "guid": "e4e0b4da-78ed-45bb-a7f7-144b0b1df324",
+      "relay": "4caa6ae8-a30f-4833-a085-615ae410bc96",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "connect": true
+    },
+    {
+      "path": "Feats",
+      "guid": "87b72d96-4d28-42b4-b790-d3a57aeb4d25",
+      "relay": "4caa6ae8-a30f-4833-a085-615ae410bc96",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "connect": true
+    },
+    {
+      "path": "Spells",
+      "guid": "5b91c529-8d02-446d-a786-63701d3fca98",
+      "relay": "4caa6ae8-a30f-4833-a085-615ae410bc96",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "connect": true
+    },
+    {
+      "path": "Classes",
+      "guid": "74fe4d70-77f5-4690-b8c9-ed120aab8d2d",
+      "relay": "4caa6ae8-a30f-4833-a085-615ae410bc96",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "connect": true
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableAttachmentSync": true,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableOIDCLogin": false,
+  "enableGitHubLogin": false,
+  "enableSelfManageHosts": false,
+  "debugging": false,
+  "login": {
+    "provider": "google"
+  },
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true
+}
